@@ -9,9 +9,11 @@ import com.B1N3.aoc21.puzzles.everything6.Puzzle6;
 import com.B1N3.aoc21.puzzles.everything7.Puzzle7;
 import com.B1N3.aoc21.puzzles.everything8.Puzzle8;
 
+import java.io.IOException;
+
 public class Main {
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException {
 
         /*
         Puzzle1 puzzle1 = new Puzzle1();
